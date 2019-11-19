@@ -41,25 +41,29 @@
       "title": "Featured Shows",
       "tiles": [
         {
-          "image_url": "https://img.nbc.com/sites/nbcunbc/files/files/images/2019/6/13/TemptationIsland-Season1-KeyArt-Lg-2048x1152.jpg",
+          "title": "Temptation Island",
+          "image_url": "https://img.nbc.com/sites/nbcunbc/files/files/images/2019/6/13/TemptationIsland-Season1-KeyArt-Lg-2048x1152.jpg?impolicy=nbc_com&imwidth=500",
           "image_ratio": "16by9",
           "is_playable": false,
           "action_data": "/show/temptation-island"
         },
         {
-          "image_url": "https://img.nbc.com/sites/nbcunbc/files/files/images/2019/8/23/NewAmsterdam-S2-KeyArt-Lg-2048x1152.jpg",
+          "title": "New Amsterdam",
+          "image_url": "https://img.nbc.com/sites/nbcunbc/files/files/images/2019/8/23/NewAmsterdam-S2-KeyArt-Lg-2048x1152.jpg?impolicy=nbc_com&imwidth=500",
           "image_ratio": "16by9",
           "is_playable": false,
           "action_data": "/show/new-amsterdam"
         },
         {
-          "image_url": "https://img.nbc.com/sites/nbcunbc/files/files/images/2019/5/03/Texicanas-S1-KeyArt-Lg-2048x1152.jpg",
+          "title": "Texicanas",
+          "image_url": "https://img.nbc.com/sites/nbcunbc/files/files/images/2019/5/03/Texicanas-S1-KeyArt-Lg-2048x1152.jpg?impolicy=nbc_com&imwidth=500",
           "image_ratio": "16by9",
           "is_playable": false,
           "action_data": "/show/texicanas"
         },
         {
-          "image_url": "https://img.nbc.com/sites/nbcunbc/files/files/images/2019/8/28/SunsetTan-S1-KeyArt-Lg-2048x1152.jpg",
+          "title": "Sunset Tan",
+          "image_url": "https://img.nbc.com/sites/nbcunbc/files/files/images/2019/8/28/SunsetTan-S1-KeyArt-Lg-2048x1152.jpg?impolicy=nbc_com&imwidth=500",
           "image_ratio": "16by9",
           "is_playable": false,
           "action_data": "/show/sunset-tan"
