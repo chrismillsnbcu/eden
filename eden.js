@@ -45,6 +45,24 @@
           "image_ratio": "16by9",
           "is_playable": false,
           "action_data": "/show/temptation-island"
+        },
+        {
+          "image_url": "https://img.nbc.com/sites/nbcunbc/files/files/images/2019/8/23/NewAmsterdam-S2-KeyArt-Lg-2048x1152.jpg",
+          "image_ratio": "16by9",
+          "is_playable": false,
+          "action_data": "/show/new-amsterdam"
+        },
+        {
+          "image_url": "https://img.nbc.com/sites/nbcunbc/files/files/images/2019/5/03/Texicanas-S1-KeyArt-Lg-2048x1152.jpg",
+          "image_ratio": "16by9",
+          "is_playable": false,
+          "action_data": "/show/texicanas"
+        },
+        {
+          "image_url": "https://img.nbc.com/sites/nbcunbc/files/files/images/2019/8/28/SunsetTan-S1-KeyArt-Lg-2048x1152.jpg",
+          "image_ratio": "16by9",
+          "is_playable": false,
+          "action_data": "/show/sunset-tan"
         }
       ]
     }
